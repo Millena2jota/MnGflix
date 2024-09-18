@@ -1,0 +1,9 @@
+:root{
+    --cor-principal:black;
+    --cor-secundaria;red rgb(255, 0, 43);
+    --cor-botão:white;
+    --cor-final:gray;
+}
+body{
+    background-color: var{--cor-fundo};
+}
